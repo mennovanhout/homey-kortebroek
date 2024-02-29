@@ -1,0 +1,51 @@
+{
+  "_comment": "This file is generated. Please edit .homeycompose/app.json instead.",
+  "id": "nl.mennovanhout.kortebroek",
+  "version": "1.0.0",
+  "compatibility": ">=5.0.0",
+  "sdk": 3,
+  "platforms": [
+    "local"
+  ],
+  "name": {
+    "en": "Can I wear shorts today?",
+    "nl": "Kan ik vandaag een korte broek aan?"
+  },
+  "description": {
+    "en": "Adds cards to check for when you can wear shorts. and includes info from kanikeenkortebroekaan.nl",
+    "nl": "Voegt kaarten toe om te controleren of je een korte broek aan kan. en bevat info van kanikeenkortebroekaan.nl"
+  },
+  "brandColor": "#2020df",
+  "homepage": "https://hdashboards.app",
+  "support": "https://hdashboards.app",
+  "contributing": {
+    "donate": {
+      "bunq": {
+        "username": "mennovanhout"
+      }
+    }
+  },
+  "category": [
+    "climate"
+  ],
+  "permissions": [],
+  "images": {
+    "small": "/assets/images/small.png",
+    "large": "/assets/images/large.png"
+  },
+  "author": {
+    "name": "Menno van Hout",
+    "email": "menno.vanhout@gmail.com"
+  },
+  "flow": {
+    "conditions": [
+      {
+        "title": {
+          "en": "You !{{can|can't}} wear shorts today",
+          "nl": "Je !{{kan|kan niet}} een korte broek dragen vandaag"
+        },
+        "id": "you-can-wear-shorts-today"
+      }
+    ]
+  }
+}
