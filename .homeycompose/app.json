@@ -1,6 +1,6 @@
 {
   "id": "nl.mennovanhout.kortebroek",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": ">=5.0.0",
   "sdk": 3,
   "platforms": [
@@ -15,7 +15,7 @@
     "nl": "Voegt kaarten toe om te controleren of je een korte broek aan kan. en bevat info van kanikeenkortebroekaan.nl"
   },
   "brandColor": "#2020df",
-  "homepage": "https://hdashboards.app",
+  "homepage": "https://kanikeenkortebroekaan.nl",
   "support": "https://hdashboards.app",
   "contributing": {
     "donate": {
