@@ -1,6 +1,6 @@
 {
   "id": "nl.mennovanhout.kortebroek",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "compatibility": ">=5.0.0",
   "sdk": 3,
   "platforms": [
@@ -11,12 +11,11 @@
     "nl": "Kan ik vandaag een korte broek aan?"
   },
   "description": {
-    "en": "Adds cards to check for when you can wear shorts. and includes info from kanikeenkortebroekaan.nl",
-    "nl": "Voegt kaarten toe om te controleren of je een korte broek aan kan. en bevat info van kanikeenkortebroekaan.nl"
+    "en": "Create Flows to check for when you can wear shorts.",
+    "nl": "Maak Flows om te controleren wanneer je een korte broek aan kan."
   },
   "brandColor": "#2020df",
   "homepage": "https://kanikeenkortebroekaan.nl",
-  "support": "https://hdashboards.app",
   "contributing": {
     "donate": {
       "bunq": {
